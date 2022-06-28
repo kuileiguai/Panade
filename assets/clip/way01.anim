@@ -1,0 +1,75 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "way01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 12.033333333333333,
+  "sample": 60,
+  "speed": 0.6,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1843,
+            758
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": [
+            243,
+            716
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 6.516666666666667,
+          "value": [
+            -20,
+            295
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 8.033333333333333,
+          "value": [
+            -272,
+            139
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 12.033333333333333,
+          "value": [
+            -1304,
+            -22
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 8.033333333333333,
+      "func": "TanChu",
+      "params": [
+        "name"
+      ]
+    },
+    {
+      "frame": 11.666666666666666,
+      "func": "stop1",
+      "params": []
+    },
+    {
+      "frame": 12.033333333333333,
+      "func": "return_way1",
+      "params": []
+    }
+  ]
+}

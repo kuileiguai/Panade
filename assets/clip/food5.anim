@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "food5",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.216666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1206.4,
+            -518.8
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2,
+          "value": [
+            1206.4,
+            -518.8
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3.216666666666667,
+          "value": [
+            20.8,
+            -534.2
+          ],
+          "motionPath": []
+        }
+      ]
+    },
+    "paths": {
+      "马蹄糕": {
+        "props": {
+          "position": []
+        }
+      }
+    }
+  },
+  "events": []
+}

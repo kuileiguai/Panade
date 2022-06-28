@@ -1,0 +1,98 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "way41",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 13,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1843,
+            758
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 4.516666666666667,
+          "value": [
+            44,
+            652
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 6.483333333333333,
+          "value": [
+            156,
+            376
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 8.5,
+          "value": [
+            174,
+            -201
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 9.5,
+          "value": [
+            71,
+            -395
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 13,
+          "value": [
+            -1311,
+            -255
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "Go5",
+      "params": []
+    },
+    {
+      "frame": 4.516666666666667,
+      "func": "turn",
+      "params": []
+    },
+    {
+      "frame": 8.5,
+      "func": "turnback",
+      "params": []
+    },
+    {
+      "frame": 9.5,
+      "func": "TanChu",
+      "params": [
+        "name"
+      ]
+    },
+    {
+      "frame": 12.516666666666667,
+      "func": "stop5",
+      "params": []
+    },
+    {
+      "frame": 13,
+      "func": "return_way5",
+      "params": []
+    }
+  ]
+}

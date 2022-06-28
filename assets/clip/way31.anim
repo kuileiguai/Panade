@@ -1,0 +1,88 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "way31",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 11.5,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1843,
+            758
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 4.5,
+          "value": [
+            243,
+            716
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 7.016666666666667,
+          "value": [
+            -168,
+            231
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 8.516666666666667,
+          "value": [
+            -168.8,
+            -158.2
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 9.333333333333334,
+          "value": [
+            -352.9,
+            -389.1,
+            0
+          ]
+        },
+        {
+          "frame": 11.5,
+          "value": [
+            -1537,
+            -194
+          ],
+          "motionPath": []
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "Go4",
+      "params": []
+    },
+    {
+      "frame": 9.333333333333334,
+      "func": "TanChu",
+      "params": [
+        "name"
+      ]
+    },
+    {
+      "frame": 11.166666666666666,
+      "func": "stop4",
+      "params": []
+    },
+    {
+      "frame": 11.5,
+      "func": "return_way4",
+      "params": []
+    }
+  ]
+}
