@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "food3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.466666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            1201.2,
+            5.3
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 2.183333333333333,
+          "value": [
+            1201.2,
+            5.1
+          ],
+          "motionPath": []
+        },
+        {
+          "frame": 3.466666666666667,
+          "value": [
+            349,
+            -52
+          ]
+        }
+      ]
+    },
+    "paths": {
+      "马蹄糕": {
+        "props": {
+          "position": []
+        }
+      }
+    }
+  },
+  "events": []
+}

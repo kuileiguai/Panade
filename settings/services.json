@@ -1,0 +1,41 @@
+{
+	"game": {
+		"name": "NewProject_3",
+		"appid": "683178215",
+		"cid": "0"
+	},
+	"needExecNative": true,
+	"configs": [
+		{
+			"appid": "683178215",
+			"services": [
+				{
+					"service_id": "235",
+					"enable": true,
+					"params": {
+						"appid": "683178215",
+						"store_id": "160564",
+						"store_id_platform": "H5",
+						"plugin_version": "1.3.7_2.2.1"
+					}
+				},
+				{
+					"service_id": "351",
+					"enable": false
+				},
+				{
+					"service_id": "305",
+					"enable": false
+				},
+				{
+					"service_id": "306",
+					"enable": false
+				},
+				{
+					"service_id": "303",
+					"enable": false
+				}
+			]
+		}
+	]
+}
